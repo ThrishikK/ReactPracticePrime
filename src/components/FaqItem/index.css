@@ -1,0 +1,17 @@
+.list-item-container {
+  padding: 15px;
+  color: #52606d;
+  border-radius: 10px;
+  border-color: #52606d;
+  border-width: 4px;
+}
+
+.question-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.btn-styles {
+  border: none;
+}

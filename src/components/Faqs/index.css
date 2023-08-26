@@ -1,0 +1,20 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #f1f5f8;
+}
+
+.sub-container {
+  padding: 30px;
+  background-color: #ffffff;
+}
+
+.un-ord-list-container {
+  list-style-type: none;
+}
+
+.heading {
+  color: #cb8805;
+}

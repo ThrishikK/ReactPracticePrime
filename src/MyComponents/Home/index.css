@@ -1,0 +1,16 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.btn-styles {
+  background-color: #9d65c9;
+  color: white;
+  border-radius: 9px;
+  padding: 9px;
+  margin: 18px;
+  border-color: #9d65c9;
+}

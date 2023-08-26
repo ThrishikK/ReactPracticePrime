@@ -1,0 +1,8 @@
+.prime-container {
+  background-color: white;
+  color: darkred;
+  border: 2px solid darkred;
+  border-radius: 9px;
+  padding: 18px;
+  margin: 27px;
+}
